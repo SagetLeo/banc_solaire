@@ -6,7 +6,7 @@ This demonstrator is for make studies about the power consumptions of small sola
 
 Codes are no more here. (Only Receive.py and app.py)
 The complete code,diagram are G2Elab property.
-You can mail : Leo.Saget@e.ujf-grenoble.fr if you want an acces to it.
+You can mail : Leo.Saget@e.ujf-grenoble.fr or benoit.delinchant@G2ELab.grenoble-inp.fr if you want an acces to it.
 
 
 
