@@ -15,8 +15,8 @@ You can mail : Leo.Saget@e.ujf-grenoble.fr or benoit.delinchant@G2ELab.grenoble-
 
 Codes : 
 
-Receive.py -> exeternal systeme side. Receive inforamtion frame and store them in an SQL database.
+Receive.py -> exeternal system side. Receive information frame and store them in an SQL database.
 
-app.py -> webservice who return : raws data and graphics from the SQL database.
+app.py -> webservice who return : raws data or graphics (plot) from the SQL database.
 
-arduino.ino -> code on the arduino, send measure from sensor each mins. 
+arduino.ino -> code in the arduino, send measure from sensor each min. 
